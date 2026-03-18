@@ -44,7 +44,7 @@ except Exception as e:
     st.stop()
 
 # ── Header ────────────────────────────────────────────────────────────────────
-st.title("🩺 Diabetic Risk Predictor")
+st.title("🩺 DiaPredictx")
 st.markdown("Fill in the patient details on the left and click **Predict** to assess diabetic risk.")
 st.divider()
 
