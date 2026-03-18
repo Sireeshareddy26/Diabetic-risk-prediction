@@ -1,8 +1,5 @@
-pandas
+pandas==2.2.3
 scikit-learn==1.6.1
-streamlit>=1.40.0
-matplotlib
-seaborn
-numpy
-altair>=5.0.0
-openpyxl
+streamlit==1.43.0
+numpy==2.2.4
+altair==5.5.0
