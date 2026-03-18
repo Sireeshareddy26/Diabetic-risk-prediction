@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Diabetic Risk Predictor",
+    page_title="DiaPredictx",
     page_icon="🩺",
     layout="wide",
 )
